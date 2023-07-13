@@ -35,7 +35,6 @@ To get started with these Bootstrap projects on your local machine, follow these
    ```shell
    git clone https://github.com/your-username/bootstrap-fundamentals.git
 
-$ git push -f -u origin main
 
 2.  Install any dependencies required by the specific project. Refer to the project's README file for detailed instructions.
 
