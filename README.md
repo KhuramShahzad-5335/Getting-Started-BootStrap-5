@@ -59,9 +59,9 @@ This project is licensed under the MIT License.
 Contact
 If you have any questions, feel free to reach out to me:
 
-Name: Your Name
-Email: your-email@example.com
-LinkedIn: Your LinkedIn Profile
+Name: Rao Khuram Shahzad
+Email: krshahzad7@gmail.com
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/khuram-shahzad-0814b1230/)
 Happy coding!
 
 Feel free to customize the content, headings, and contact information to match your own details and preferences.
