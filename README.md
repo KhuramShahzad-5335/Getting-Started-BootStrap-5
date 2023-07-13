@@ -64,11 +64,6 @@ Email: your-email@example.com
 LinkedIn: Your LinkedIn Profile
 Happy coding!
 
-css
-Copy code
-
-
-
 Feel free to customize the content, headings, and contact information to match your own details and preferences.
 
 
