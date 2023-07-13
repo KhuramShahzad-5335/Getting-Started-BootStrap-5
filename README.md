@@ -37,26 +37,27 @@ To get started with these Bootstrap projects on your local machine, follow these
 
 $ git push -f -u origin main
 
-#1 Install any dependencies required by the specific project. Refer to the project's README file for detailed instructions.
-Usage
-Each project is self-contained and can be run independently. Refer to the respective project's README file for specific instructions on how to use and interact with the project.
+2.  Install any dependencies required by the specific project. Refer to the project's README file for detailed instructions.
 
-Feel free to explore the code, make modifications, and adapt it to suit your own needs. If you find any bugs or have suggestions for improvements, please refer to the Contributing section.
+###   Usage
+      Each project is self-contained and can be run independently. Refer to the respective project's README file for specific instructions on how to use and interact with the project.
 
-Contributing
+      Feel free to explore the code, make modifications, and adapt it to suit your own needs. If you find any bugs or have suggestions for improvements, please refer to the Contributing section.
+
+###   Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please follow these steps:
 
-Fork the repository.
+###   Fork the repository.
 Create a new branch: git checkout -b feature/my-feature.
 Commit your changes: git commit -am 'Add new feature'.
 Push to the branch: git push origin feature/my-feature.
 Submit a pull request.
 Please ensure your contributions adhere to the repository's coding standards and are appropriately documented.
 
-License
+###License
 This project is licensed under the MIT License.
 
-Contact
+###   Contact
 If you have any questions, feel free to reach out to me:
 
 Name: Rao Khuram Shahzad
