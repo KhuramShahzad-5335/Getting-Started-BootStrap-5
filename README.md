@@ -39,9 +39,9 @@ To get started with these Bootstrap projects on your local machine, follow these
 2.  Install any dependencies required by the specific project. Refer to the project's README file for detailed instructions.
 
 ###   Usage
-      Each project is self-contained and can be run independently. Refer to the respective project's README file for specific instructions on how to use and interact with the project.
+   Each project is self-contained and can be run independently. Refer to the respective project's README file for specific instructions on how to use and interact with the project.
 
-      Feel free to explore the code, make modifications, and adapt it to suit your own needs. If you find any bugs or have suggestions for improvements, please refer to the Contributing section.
+   Feel free to explore the code, make modifications, and adapt it to suit your own needs. If you find any bugs or have suggestions for improvements, please refer to the Contributing section.
 
 ###   Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please follow these steps:
